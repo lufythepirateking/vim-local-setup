@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/mE/Downloads'
+let g:netrw_dirhist_2='/Users/mE/.vim/bundle/YouCompleteMe'
+let g:netrw_dirhist_3='/Users/mE/.vim/bundle/YouCompleteMe/third_party'
+let g:netrw_dirhist_4='/Users/mE/.vim/bundle/YouCompleteMe/third_party/ycmd'
